@@ -7,18 +7,16 @@
 
 ## Languages and Tools 
 
-### Blockchain
-<div>
+### Blockchain  
+[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
 <img width=50px src='https://raw.githubusercontent.com/foundry-rs/foundry/master/.github/logo.png'>&nbsp;
-<img width=50px src='https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg'>&nbsp;
 
 ### Statistics
-<img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-<img width=50px src='https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg'>&nbsp;
-<img width=50px src='https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matlab/matlab-original.svg'>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=python,r,matlab)](https://skillicons.dev)
+
 
 ### Databases
-<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" alt="MySQL Icon">
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Tools
-<img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
