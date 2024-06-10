@@ -5,6 +5,20 @@
 
 - In my free time I'm currently learning how to audit smart contracts and trying to participate in public contests to hone my skills
 
+See my stats 📈 on:
+
+<a href="https://audits.sherlock.xyz/watson/robertodf" style="text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/u/83594978?s=200&v=4" alt="Roberto Delgado Sherlock" width="50" height="50">
+</a>
+
+<a href="https://www.codehawks.com/profile/clscdki8s0001sbgc9ukl8ewc">
+    <img src="https://pbs.twimg.com/profile_images/1700276087320657920/TCQQve6f_400x400.jpg" alt="Roberto Delgado Codehawks" width="50" height="50">
+</a>
+
+<a href="https://code4rena.com/@robertodf99">
+    <img src="https://cryptocurrencyjobs.co/startups/assets/logos/code4rena.png" alt="Roberto Delgado Code4rena" width="50" height="50">
+</a>
+
 ## Languages and Tools 
 
 ### Blockchain  
