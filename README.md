@@ -12,7 +12,7 @@ See my stats 📈 on:
 </a>
 
 <a href="https://www.codehawks.com/profile/clscdki8s0001sbgc9ukl8ewc">
-    <img src="https://pbs.twimg.com/profile_images/1700276087320657920/TCQQve6f_400x400.jpg" alt="Roberto Delgado Codehawks" width="50" height="50">
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" alt="Roberto Delgado Codehawks" width="50" height="50">
 </a>
 
 <a href="https://code4rena.com/@robertodf99">
